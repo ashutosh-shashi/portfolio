@@ -1,0 +1,54 @@
+{
+    "name": "Ashutosh Shashi",
+    "email": "as@ashutoshshashi.com",
+    "subtitles": [
+        "Author",
+        "Technology Leader",
+        "co-founder of STEMars EdTech"
+    ],
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/ashutoshshashi"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/ashutosh_s9/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/ashutoshshashi"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/in/ashutoshshashi/"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/ashutosh-shashi"
+        },
+        {
+            "platform": "medium",
+            "url": "https://medium.com/@ashutoshshashi"
+        }
+    ],
+    "aboutMeHeadline": "Hi, I'm Ashutosh, an Author, Technology Leader, and co-founder of STEMars EdTech Private Limited.",
+    "aboueMeDetails": "He completed his master's, Master of Computer Applications in 2004 from Bundelkhand University, Jhansi, India. Before his Master, he did Bachelor in Science in Physics and +2 (Isc) in Science from Langat Singh College (L.S.College), Bihar University, Muzaffarpur, Bihar, India.  He has done several graded and non-graded courses in Entrepreneurship and Management from the Massachusetts Institute of Technology (MIT), University of Washington, Arizona State University (ASU), Harvard University, and the University System of Maryland (USM), in the USA. He holds a wide array of certifications in the latest technologies, Software Architecture, Enterprise Architecture, and Project Management. ",
+    "book": [
+        {
+            "icon": "assets/book/java.png",
+            "name": "Brush-up java for Interview",
+            "description": "Brush-up java for Interview: Java concepts refresher"
+        },
+        {
+            "icon": "assets/services/rea.png",
+            "name": "Re-Architecting Application for Cloud",
+            "description": "Re-Architecting Application for Cloud: An Architect’s reference guide"
+        },
+        {
+            "icon": "assets/services/gcp.png",
+            "name": "Designing Applications for Google Cloud Platform",
+            "description": "Designing Applications for Google Cloud Platform: Create and Deploy Applications Using Java"
+        }
+    ]
+}
