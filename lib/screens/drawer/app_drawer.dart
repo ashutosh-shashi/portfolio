@@ -12,7 +12,7 @@ class AppDrawer extends StatelessWidget {
       child: ListView(
         children: [
           SizedBox(
-            height: size.height * 0.1,
+            height: size.height * 0.08,
             child: const DrawerHeader(
               decoration: BoxDecoration(
                 color: Colors.blueGrey,
@@ -25,7 +25,7 @@ class AppDrawer extends StatelessWidget {
                 'Ashutosh',
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 42,
+                  fontSize: 32,
                 ),
               ),
             ),
@@ -37,11 +37,11 @@ class AppDrawer extends StatelessWidget {
             title: const Text(
               'Home',
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 32,
+                color: Colors.black,
+                fontSize: 24,
               ),
             ),
-            tileColor: Colors.teal,
+            tileColor: Colors.white,
             onTap: () {
               Navigator.pushReplacementNamed(context, '/');
             },
@@ -50,12 +50,12 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(
               Icons.person,
             ),
-            tileColor: Colors.teal,
+            tileColor: Colors.white,
             title: const Text(
               'About me',
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 32,
+                color: Colors.black,
+                fontSize: 24,
               ),
             ),
             onTap: () {
@@ -69,11 +69,11 @@ class AppDrawer extends StatelessWidget {
             title: const Text(
               'Books',
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 32,
+                color: Colors.black,
+                fontSize: 24,
               ),
             ),
-            tileColor: Colors.teal,
+            tileColor: Colors.white,
             onTap: () {
               Navigator.pushReplacementNamed(context, '/book');
             },
@@ -82,12 +82,12 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(
               Icons.contact_phone_outlined,
             ),
-            tileColor: Colors.teal,
+            tileColor: Colors.white,
             title: const Text(
               'Contact',
               style: TextStyle(
-                color: Colors.white,
-                fontSize: 32,
+                color: Colors.black,
+                fontSize: 24,
               ),
             ),
             onTap: () {

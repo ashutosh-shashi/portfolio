@@ -29,7 +29,6 @@ class StaticUtils {
       'https://www.barnesandnoble.com/w/designing-applications-for-google-cloud-platform-ashutosh-shashi/1143307006';
 
   static const List<String> socialIconURL = [
-    "https://img.icons8.com/metro/208/ffffff/facebook-new--v2.png",
     "https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png",
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
@@ -38,7 +37,6 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "https://www.facebook.com/ashutoshshashi",
     "https://www.instagram.com/ashutosh_s9/",
     "https://twitter.com/ashutoshshashi",
     "https://www.linkedin.com/in/ashutoshshashi/",
