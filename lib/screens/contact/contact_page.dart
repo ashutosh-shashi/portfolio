@@ -21,7 +21,7 @@ class ContactPage extends StatelessWidget {
           Center(
             child: Image.asset(
               StaticUtils.coloredPhoto,
-              height: size.height * 0.2,
+              height: size.height * 0.1,
             ),
           ),
           const Text(

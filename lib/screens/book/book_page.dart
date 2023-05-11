@@ -24,7 +24,6 @@ class _BookPageState extends State<BookPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Published Books'),
-        backgroundColor: Colors.blue,
       ),
       drawer: const AppDrawer(),
       body: Stack(
@@ -62,7 +61,7 @@ class _BookPageState extends State<BookPage> {
           ),
           if (_showButtons)
             Positioned(
-              bottom: size.height * 0.12,
+              bottom: size.height * 0.02,
               left: 0,
               right: 0,
               child: Container(
