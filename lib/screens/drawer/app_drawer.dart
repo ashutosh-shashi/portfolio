@@ -12,7 +12,7 @@ class AppDrawer extends StatelessWidget {
       child: ListView(
         children: [
           SizedBox(
-            height: size.height * 0.08,
+            height: size.height * 0.1,
             child: const DrawerHeader(
               decoration: BoxDecoration(
                 color: Colors.blueGrey,
@@ -25,7 +25,7 @@ class AppDrawer extends StatelessWidget {
                 'Ashutosh',
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 32,
+                  fontSize: 28,
                 ),
               ),
             ),
